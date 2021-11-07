@@ -1,4 +1,4 @@
-# TIUnpad Webview App
+# Geofisika Webview App
 
 This project is a webview static app for android. It contains all information about Geofisika at the Universitas Padjadjaran.
 
